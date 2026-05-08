@@ -21,6 +21,6 @@ A reusable Android/Kotlin code quality standard focused on:
 - [Android Resource Types](https://developer.android.com/guide/topics/resources/available-resources?utm_source=chatgpt.com)
 - [Kotlin Scope Functions](https://kotlinlang.org/docs/scope-functions.html?utm_source=chatgpt.com)
 - [Android Localization Guide](https://developer.android.com/guide/topics/resources/localization?utm_source=chatgpt.com)
-- :contentReference[oaicite:5]{index=5} — [Wikipedia Reference](https://en.wikipedia.org/wiki/SOLID?utm_source=chatgpt.com)
+- [SOLID - Wikipedia](https://en.wikipedia.org/wiki/SOLID?utm_source=chatgpt.com)
 - [Jetpack Compose API Guidelines](https://android.googlesource.com/platform/frameworks/support/+/androidx-main/compose/docs/compose-api-guidelines.md?utm_source=chatgpt.com)
 - [Jetpack Compose Performance Best Practices](https://developer.android.com/develop/ui/compose/performance/bestpractices?utm_source=chatgpt.com)
