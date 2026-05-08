@@ -1,4 +1,4 @@
-# GitHub Copilot — Android Code Quality Instructions
+# Android Code Quality Instructions
 
 ## How to read this file
 
